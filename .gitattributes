@@ -1,0 +1,202 @@
+Last login: Sat Mar 14 16:32:52 on ttys000
+➜  ~ cd Documents/Unity/Sproute-01 
+➜  Sproute-01 git:(main) ✗ vim .gitignore 
+➜  Sproute-01 git:(main) ✗ ls -a
+.
+..
+.DS_Store
+.git
+.gitattributes
+.gitignore
+.idea
+.vscode
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp.Player.csproj
+Assets
+DocCodeExamples.csproj
+Library
+Logs
+mono_crash.mem.77098.1.blob
+obj
+Packages
+PPv2URPConverters.csproj
+ProjectSettings
+PsdPlugin.csproj
+ScriptablePacker.csproj
+Sproute-01.sln
+Sproute-01.sln.DotSettings.user
+TestNewCustomAssembly.csproj
+Unity.2D.Animation.Editor.csproj
+Unity.2D.Animation.EditorTests.csproj
+Unity.2D.Animation.Runtime.csproj
+Unity.2D.Animation.Runtime.Player.csproj
+Unity.2D.Aseprite.Common.csproj
+Unity.2D.Aseprite.Editor.csproj
+Unity.2D.Aseprite.EditorTests.csproj
+Unity.2D.Common.Editor.csproj
+Unity.2D.Common.EditorTests.csproj
+Unity.2D.Common.Path.Editor.csproj
+Unity.2D.Common.Runtime.csproj
+Unity.2D.Common.Runtime.Player.csproj
+Unity.2D.IK.Editor.csproj
+Unity.2D.IK.Runtime.csproj
+Unity.2D.IK.Runtime.Player.csproj
+Unity.2D.Psdimporter.Editor.csproj
+Unity.2D.Psdimporter.EditorTests.csproj
+Unity.2D.Sprite.AIIntegration.Editor.csproj
+Unity.2D.Sprite.Editor.csproj
+Unity.2D.Sprite.Package.EditorTests.csproj
+Unity.2D.SpriteShape.Editor.csproj
+Unity.2D.SpriteShape.EditorTests.csproj
+Unity.2D.SpriteShape.Runtime.csproj
+Unity.2D.SpriteShape.Runtime.Player.csproj
+Unity.2D.Tilemap.Editor.csproj
+Unity.2D.Tilemap.Extras.csproj
+Unity.2D.Tilemap.Extras.Editor.csproj
+Unity.2D.Tilemap.Extras.Player.csproj
+Unity.2D.Tilemap.Package.EditorTests.csproj
+Unity.Burst.CodeGen.csproj
+Unity.Burst.csproj
+Unity.Burst.Editor.csproj
+Unity.Burst.Player.csproj
+Unity.CollabProxy.Editor.csproj
+Unity.Collections.BurstCompatibilityGen.csproj
+Unity.Collections.CodeGen.csproj
+Unity.Collections.csproj
+Unity.Collections.DocCodeSamples.csproj
+Unity.Collections.Editor.csproj
+Unity.Collections.PerformanceTests.csproj
+Unity.Collections.Player.csproj
+Unity.Collections.Tests.csproj
+Unity.Collections.Tests.Playmode.csproj
+Unity.InputSystem.csproj
+Unity.InputSystem.DocCodeSamples.csproj
+Unity.InputSystem.ForUI.csproj
+Unity.InputSystem.ForUI.Player.csproj
+Unity.InputSystem.IntegrationTests.csproj
+Unity.InputSystem.Player.csproj
+Unity.InputSystem.TestFramework.csproj
+Unity.InputSystem.TestFramework.Player.csproj
+Unity.InternalAPIEditorBridge.001.csproj
+Unity.InternalAPIEngineBridge.001.csproj
+Unity.InternalAPIEngineBridge.001.Player.csproj
+Unity.LightTransport.Editor.Tests.csproj
+Unity.Mathematics.csproj
+Unity.Mathematics.Editor.csproj
+Unity.Mathematics.Player.csproj
+Unity.Mathematics.Tests.csproj
+Unity.Multiplayer.Center.Common.csproj
+Unity.Multiplayer.Center.Common.Player.csproj
+Unity.Multiplayer.Center.Editor.csproj
+Unity.Multiplayer.Center.Editor.Tests.csproj
+Unity.Multiplayer.Center.Tests.csproj
+Unity.Nuget.Mono-Cecil.csproj
+Unity.PerformanceTesting.csproj
+Unity.PerformanceTesting.Editor.csproj
+Unity.PerformanceTesting.Player.csproj
+Unity.PlasticSCM.Editor.csproj
+Unity.PlasticSCM.Editor.Entities.csproj
+Unity.Rendering.LightTransport.Editor.csproj
+Unity.Rendering.LightTransport.Runtime.csproj
+Unity.Rendering.LightTransport.Runtime.Player.csproj
+Unity.RenderPipeline.Universal.ShaderLibrary.csproj
+Unity.RenderPipeline.Universal.ShaderLibrary.Player.csproj
+Unity.RenderPipelines.Core.Editor.csproj
+Unity.RenderPipelines.Core.Editor.Shared.csproj
+Unity.RenderPipelines.Core.Editor.Tests.csproj
+Unity.RenderPipelines.Core.Runtime.csproj
+Unity.RenderPipelines.Core.Runtime.Player.csproj
+Unity.RenderPipelines.Core.Runtime.Shared.csproj
+Unity.RenderPipelines.Core.Runtime.Shared.Player.csproj
+Unity.RenderPipelines.Core.Runtime.Tests.csproj
+Unity.RenderPipelines.Core.ShaderLibrary.csproj
+Unity.RenderPipelines.Core.ShaderLibrary.Player.csproj
+Unity.RenderPipelines.GPUDriven.Runtime.csproj
+Unity.RenderPipelines.GPUDriven.Runtime.Player.csproj
+Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj
+Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.Player.csproj
+Unity.RenderPipelines.Universal.2D.Runtime.csproj
+Unity.RenderPipelines.Universal.2D.Runtime.Player.csproj
+Unity.RenderPipelines.Universal.Config.Editor.Tests.csproj
+Unity.RenderPipelines.Universal.Config.Runtime.csproj
+Unity.RenderPipelines.Universal.Config.Runtime.Player.csproj
+Unity.RenderPipelines.Universal.Editor.csproj
+Unity.RenderPipelines.Universal.Editor.Tests.csproj
+Unity.RenderPipelines.Universal.Runtime.csproj
+Unity.RenderPipelines.Universal.Runtime.Player.csproj
+Unity.RenderPipelines.Universal.Runtime.Tests.csproj
+Unity.RenderPipelines.Universal.Shaders.csproj
+Unity.RenderPipelines.Universal.Shaders.Player.csproj
+Unity.Rider.Editor.csproj
+Unity.Searcher.Editor.csproj
+Unity.Searcher.EditorTests.csproj
+Unity.ShaderGraph.Editor.csproj
+Unity.ShaderGraph.Editor.Tests.csproj
+Unity.ShaderGraph.Utilities.csproj
+Unity.TextMeshPro.csproj
+Unity.TextMeshPro.Editor.csproj
+Unity.TextMeshPro.Editor.Tests.csproj
+Unity.TextMeshPro.Player.csproj
+Unity.TextMeshPro.Tests.csproj
+Unity.Timeline.csproj
+Unity.Timeline.Editor.csproj
+Unity.Timeline.Player.csproj
+Unity.VisualScripting.Core.csproj
+Unity.VisualScripting.Core.Editor.csproj
+Unity.VisualScripting.Core.Player.csproj
+Unity.VisualScripting.Flow.csproj
+Unity.VisualScripting.Flow.Editor.csproj
+Unity.VisualScripting.Flow.Player.csproj
+Unity.VisualScripting.SettingsProvider.Editor.csproj
+Unity.VisualScripting.Shared.Editor.csproj
+Unity.VisualScripting.State.csproj
+Unity.VisualScripting.State.Editor.csproj
+Unity.VisualScripting.State.Player.csproj
+Unity.VisualStudio.Editor.csproj
+UnityEditor.TestRunner.csproj
+UnityEditor.UI.csproj
+UnityEditor.UI.EditorTests.csproj
+UnityEngine.TestRunner.csproj
+UnityEngine.TestRunner.Player.csproj
+UnityEngine.UI.csproj
+UnityEngine.UI.Player.csproj
+UnityEngine.UI.Tests.csproj
+UnityUtils.csproj
+UnityUtils.Editor.csproj
+UnityUtils.Hotkeys.csproj
+UnityUtils.Player.csproj
+UserSettings
+➜  Sproute-01 git:(main) ✗ vim .gitattributes 
+#
+# Git attributes for Unity projects
+#
+# Compiled by the GameCI community under the MIT license - https://game.ci
+#
+# Latest version at https://gist.github.com/webbertakken/ff250a0d5e59a8aae961c2e509c07fbc
+#
+# Ensure that text files that any contributor introduces to the repository have their line endings normalized
+* text=auto
+# Increase probability of success for merging files with specific extensions
+*.cs diff=csharp
+# Macro attribute: Files with Unity's yaml format
+# linguist-generated means the file is ignored for the repository's language statistics and diffs are hidden by default.
+[attr]unity-yaml-file -text merge=unityyamlmerge linguist-generated
+# Macro attribute: Files intended for LFS
+[attr]lfs-file filter=lfs diff=lfs merge=lfs -text
+# Unity files
+*.asmdef unity-yaml-file -linguist-generated
+*.anim unity-yaml-file
+*.asset unity-yaml-file
+*.brush unity-yaml-file
+*.controller unity-yaml-file
+*.flare unity-yaml-file
+*.fontsettings unity-yaml-file
+*.giparams unity-yaml-file
+*.guiskin unity-yaml-file
+*.mask unity-yaml-file
+".gitattributes" 141L, 2842B
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
